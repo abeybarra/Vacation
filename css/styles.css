@@ -1,0 +1,19 @@
+.panel-title {
+    color: rgb(15, 172, 119);
+}
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+}
+ol {
+    list-style: lower-greek;
+    list-style-position: inside;
+}
+
+body {
+    font-family: cursive;
+    text-align: center;
+}
+h1 {
+    text-shadow: 5px 5px rgb(241, 101, 125);
+}
